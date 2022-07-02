@@ -1,0 +1,56 @@
+body{
+  background-color: black;
+}
+
+
+a{
+  text-decoration: none;
+}
+.topbox{
+  margin:0px;
+  position: relative;
+  padding-top: 60px;
+}
+
+/* Main title here */
+h1{
+  font-size: 45px;
+  font-family: Montserrat;
+  color: #FF6B6B;
+  margin-left: 42%;}
+
+/* Second title */
+h2{
+  font-size: 40px;
+  font-family: Dancing Script;
+  color: #FFD93D;
+  margin-left: 45%
+}
+
+/* For the bb8 gif. */
+#bb8{
+  width = 45% ;
+  height = 45% ;
+  margin-left: 42%;
+}
+
+h3{
+  margin-left: 32%;
+  font-family: Kanit;
+  font-style: bold;
+  font-size: 35px;
+  color: #3AB0FF;
+}
+
+li{
+  color: #00FFC6;
+  font-style: Montserrat;
+  font-size: 25px;
+  list-style: none;
+}
+
+#working{
+  font-size: 43;
+  margin-left: 42%;
+  text-decoration: none;
+}
